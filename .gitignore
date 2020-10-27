@@ -1,0 +1,12 @@
+.DS_Store
+.gradle/
+build/
+
+**/.idea/*
+!.idea/icon.png
+!.idea/vcs.xml
+*.iml
+*.ipr
+*.iws
+
+src/main/resources/firebase-messaging-sw.js
